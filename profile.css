@@ -1,0 +1,61 @@
+body {
+    background-image: url(picture/white\ grey\ clouds.jpg);
+    background-size: cover;
+}
+img {
+    float: left;
+}
+h1 {
+    
+    color: #6985df;
+}
+h2 {
+    
+    color: #6985df;
+}
+ul {
+    list-style-type: none;
+    margin-left: 10px;
+    background-color: #c4cdeb;
+    height: 45px;
+    width: auto;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+    
+}
+aside {
+    float: right;
+    margin-right: 10px;
+    background-color: #fe94a2;
+    width: 200px;
+    text-align: justify;
+    
+}
+h3 {
+    font-size: 40px;
+    text-align: center;
+}
+p.b {
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 20px; 
+}
+p.d {
+    margin-left: 50px;
+    color: #ff677c;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #a3a3a3;
+    text-align: center;
+    color: #000000;
+}

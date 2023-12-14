@@ -1,0 +1,45 @@
+body {
+    background-image: url(picture/white\ grey\ clouds.jpg);
+    background-size: cover;
+}
+img {
+    float: left;
+}
+h1 {
+    
+    color: #6985df;
+}
+h2 {
+    
+    color: #6985df;
+}
+ul {
+    list-style-type: none;
+    margin-left: 10px;
+    background-color: #c4cdeb;
+    height: 45px;
+    width: auto;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center; 
+}
+h3 {
+    font-size: 40px;
+    text-align: center;
+}
+th {
+    font-size: 20px;
+}
+td {
+    font-size: 18px;
+}
+footer {
+    background-color: #a3a3a3;
+    text-align: center;
+}
